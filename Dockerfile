@@ -1,5 +1,5 @@
 FROM rocker/geospatial:3.5.3
-MAINTAINER "Tyson Lee Swetnam tswetnam@cyverse.org"
+MAINTAINER "Vibhor Mehta vibhormehta20@gmail.com"
 # This image uses the Rocker Geospatial RStudio image - thanks R OpenSci!
 
 # Add additional R libraries beyond Rocker Geospatial which fit our specific project needs.
